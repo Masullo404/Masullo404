@@ -16,7 +16,8 @@ My Techs:
 </div>
 
 🚀 Interested in solving world's problems creating great solution with programming.
-where to find me?
+
+🤔 where to find me?
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-masullo-846b672b9/">
   <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="NodeJs logo" title="nodeJs" height="50" />
